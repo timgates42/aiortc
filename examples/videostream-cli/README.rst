@@ -5,7 +5,7 @@ This example illustrates the establishment of a video stream using an
 RTCPeerConnection.
 
 By default the signaling channel used is "copy and paste", but a number of
-other signaling mecanisms are available, including Google's AppRTC demo
+other signaling mechanisms are available, including Google's AppRTC demo
 application.
 
 By default the sent video is an animated French flag, but it is also possible
